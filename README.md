@@ -164,10 +164,9 @@ church.html
 ```
 
 ## OUTPUT
-
+![alt text](<Screenshot (182)-1.png>)
 ![alt text](<Screenshot (185)-1.png>) 
 ![alt text](<Screenshot (186)-1.png>) 
-![alt text](<Screenshot (182)-1.png>)
  ![alt text](<Screenshot (183)-1.png>)
 ![alt text](<Screenshot (184)-1.png>)
 
